@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 
 ## Hello World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Jason，音视频工程师，会写/Objective-C/Swift/C/C++/Java，喜欢折腾音视频和图形渲染
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 专注于智能视频剪辑
 
 ####  Personal Items
+
+<a href="https://github.com/cgeffect/e2e-rendering" target="_blank">e2e-rendering</a> 端到端是视频渲染传输</br>
+<a href="https://github.com/cgeffect/skia-macos" target="_blank">skia-macos</a> 图文渲染</br>
+<a href="https://github.com/cgeffect/remotion-render" target="_blank">remotion-render</a> 基于remotion实现的视频剪辑</br>
 <a href="https://github.com/cgeffect/CGMetal" target="_blank">CGMetal</a> 是用于 iOS/macOS 的GPU加速Metal渲染库</br>
 <a href="https://github.com/cgeffect/CGPixel" target="_blank">CGPixel</a> 是用于 iOS 的GPU加速OpenGL渲染库</br>
 <a href="https://github.com/cgeffect/CGPlayer" target="_blank">CGPlayer</a> 是用于 iOS 平台的本地播放器SDK, 支持UI定制化</br>
