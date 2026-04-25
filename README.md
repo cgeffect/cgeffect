@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 专注于智能视频剪辑
 
 ####  Personal Items
-
+<a href="https://github.com/cgeffect/text2image" target="_blank">text2image</a> 使用stable difficuse实现文生图</br>
 <a href="https://github.com/cgeffect/e2e-rendering" target="_blank">e2e-rendering</a> OpenGL+Electron+WebRTC, 多轨道视频渲染</br>
 <a href="https://github.com/cgeffect/skia-macos" target="_blank">skia-macos</a> Skia图文渲染</br>
 <a href="https://github.com/cgeffect/Web-Electron-Wasm-OpenGL" target="_blank">Web-Electron-Wasm-OpenGL</a> Web-Electron-Wasm-OpenGL渲染器</br>
